@@ -2,7 +2,7 @@
 &nbsp People call me by my first name Lohan,<br>
 &nbsp I'm living in North French (Nord département)<br>
 &nbsp So I'm a french young guy who love the web development.<br>
-&nbsp <sup><i>I'm not a professional but I aspires to become one.</i></sup>
+&nbsp <sup><i>I'm not a professional but I aspire to become one.</i></sup>
 <h3>Why I'm on GitHub ?</h3>
 &nbsp <sub><i>Why not ?</i></sub><br>
 &nbsp More seriously, in order to share some of my projects with people,<br>
