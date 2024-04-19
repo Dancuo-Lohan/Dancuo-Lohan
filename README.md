@@ -2,7 +2,7 @@
 #### 🌐 Web Development Student in Master's Degree
 I'm currently pursuing a Master's degree in web development, passionate about creating efficient and responsible digital solutions.
 #### 💻 Technologies and Languages
-- **PHP 7.4-8.2**: Old programming language but still effective nowadays.
+- **PHP 7.4-8.3**: Old programming language but still effective nowadays.
 - **TypeScript**: For more rigour and better maintainability in my projects.
 - **other languages**: C#, Vanilla JavaScript (no JQuery please), HTML and CSS.
 - **other frameworks**: Electron, Tailwind and a bit of React and React Native.
