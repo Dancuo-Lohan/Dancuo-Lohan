@@ -1,6 +1,4 @@
-### 👋 Hi, I'm a Frenchman called Lohan!
-#### 🌐 Web Development Student in Master's Degree
-I'm currently pursuing a Master's degree in web development, passionate about creating efficient and responsible digital solutions.
+### 👋 Hi, I'm a French guy called Lohan!
 #### 💻 Technologies and Languages
 - **PHP 7.4-8.3**: Old programming language but still effective nowadays.
 - **TypeScript**: For more rigour and better maintainability in my projects.
