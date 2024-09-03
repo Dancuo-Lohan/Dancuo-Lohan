@@ -9,3 +9,5 @@
 I love to minimize the carbon footprint of my projects. This involves constant optimization and the pursuit of innovative solutions for greener development.
 #### 📈 Constantly Learning
 The world of web development is fast-evolving, and I am always keen to stay updated with the latest technologies and best practices.
+#### 💻 My portfolio
+<a href="https://lohan.dancuo.fr">https://lohan.dancuo.fr</a>
