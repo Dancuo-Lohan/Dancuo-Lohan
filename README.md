@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm a French guy called Lohan!
 #### 💻 Technologies and Languages
-- **PHP 7.4-8.3**: Old programming language but still effective nowadays.
+- **PHP 7.4-8.4**: Old programming language but still effective nowadays.
 - **TypeScript**: For more rigour and better maintainability in my projects.
 - **other languages**: C#, Vanilla JavaScript (no JQuery please), HTML and CSS.
 - **other frameworks**: Electron, Tailwind and a bit of React and React Native.
